@@ -10,7 +10,7 @@ A web-based quiz application designed to test and enhance knowledge in computer 
 
 ## Technologies Used  
 - **Backend**: Spring Boot, Hibernate/JPA  
-- **Database**: MySQL/PostgreSQL (or the database of your choice)  
+- **Database**: MySQL 
 - **Other Tools**: Lombok for cleaner code and annotations  
 
 ## Setup and Installation  
